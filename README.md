@@ -18,7 +18,7 @@
 # (gdb) monitor reset halt
 # (gdb) monitor arm semihosting enable
 #
-# (gdb) monito flash probe 0
+# (gdb) monitor flash probe 0
 # (gdb) monitor stm32f4x mass_erase 0
 #
 # (gdb) monitor reset run
